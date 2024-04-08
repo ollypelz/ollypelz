@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ollypelz
-- 👀 I’m interested in WEB developers
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on javascript and python
+  
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate with working on an ai
 - 📫 How to reach me opeyemiolaniyi951@gmail.com
 
 <!---
